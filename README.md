@@ -77,7 +77,7 @@
       <a href="https://github.com/fozilbekfayzullayev/ffozilbek.blog" target="_blank">GitHub Repo</a>
   </li>
   <li>
-    <strong>MyTeam Website</strong> — Paint clone (Canvas project).  
+    <strong>Paint Clone</strong> — Paint clone (Canvas project).  
     🔗 <a href="https://github.com/fozilbekfayzullayev/paint-clone" target="_blank">GitHub Repo</a>
   </li>
   <li>
