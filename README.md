@@ -37,6 +37,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+
+  <!-- MaterialUI -->
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/4fcf033d-82a3-4933-a25f-199971076f52" alt="mui" width="40" height="40"/>
+  </a>
   
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
